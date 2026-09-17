@@ -1,0 +1,8 @@
+{
+  "name": "VERDENA",
+  "short_name": "VERDENA",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#234c36",
+  "background_color": "#faf9f6"
+}
